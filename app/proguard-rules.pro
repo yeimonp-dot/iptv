@@ -1,0 +1,3 @@
+-keep class com.example.fibraconet.** { *; }
+-dontwarn okhttp3.**
+-dontwarn okio.**
